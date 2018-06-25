@@ -1,0 +1,47 @@
+{
+  "customers": [
+    {
+      "dni": "29620000",
+      "name": "ESTEBAN RUL",
+      "age": 35,
+      "id": "27000000",
+      "isDeleteAllow": false
+    },
+    {
+      "id": "30000001",
+      "dni": "30000001",
+      "name": "GABY CAL",
+      "age": 40
+    },
+    {
+      "id": "gLOTPrW",
+      "dni": "56000000",
+      "name": "CAMILA",
+      "age": 2,
+      "isDeleteAllow": false
+    },
+    {
+      "id": "KmWSJoM",
+      "dni": "54621",
+      "name": "ROQUE",
+      "age": 15
+    }
+  ],
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
