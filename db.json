@@ -25,6 +25,24 @@
       "dni": "54621",
       "name": "ROQUE",
       "age": 15
+    },
+    {
+      "id": "02szkW2",
+      "dni": "56000542",
+      "name": "CAMI 1",
+      "age": 5
+    },
+    {
+      "id": "NHIjoaX",
+      "dni": "54235200",
+      "name": "CAMI 2",
+      "age": 1
+    },
+    {
+      "id": "U3vuruR",
+      "dni": "55223100",
+      "name": "CAMI 3",
+      "age": 2
     }
   ],
   "posts": [

@@ -50,7 +50,7 @@ class CustomerEdit extends Component {
     );
 
     render(){
-        const {handleSubmit, submitting, onBack, pristine, submittSucceeded} = this.props;
+        const {handleSubmit, submitting, onBack, pristine, submitSucceeded} = this.props;
         return (
             <div>
                 <h2>Edición del cliente</h2>
@@ -87,7 +87,7 @@ class CustomerEdit extends Component {
                         </button>
                     </CustomersActions>
                     <Prompt
-                        when={!pristine && !submittSucceeded}
+                        when={!pristine && !submitSucceeded}
                         message="Se perderán los datos si continúa"></Prompt>
                 </form>
             </div>
